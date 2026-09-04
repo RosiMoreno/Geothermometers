@@ -1,5 +1,7 @@
 # Geothermometers
-Reservoir Temperatures calculation with SiO2 and cations geothermometers
+**Reservoir Temperatures calculation with SiO2 and cations geothermometers**
+
+Herramienta desarrollada en Python para el cálculo automatizado de temperaturas de reservorio mediante geotermómetros de sílice y cationes.
 
 Aquí los enclaces de los cuadernos de jupyter notebook para abrirlos en Google Coolab y poder ejecutar el código python. 
 
